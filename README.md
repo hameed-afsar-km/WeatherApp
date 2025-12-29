@@ -6,7 +6,7 @@
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 
 
-_🌐 Live Demo: [Weather App on Vercel](https://weather-app-silk-tau-66.vercel.app/)_
+_🌐 Live Demo: [Weather App on Vercel](https://weather-app-afsar.vercel.app/)_
 
 A modern Weather Application built using **HTML, CSS, and Vanilla JavaScript**. This project marks the beginning of my frontend development learning journey, focusing on clean UI design, API integration, and real-world functionality.
 
