@@ -103,17 +103,20 @@ header {
 .search-box {
     display: flex;
     gap: 0.5rem;
+    flex-wrap: wrap;
 }
 
 .search-box input {
-    flex: 1;
+    flex: 1 1 60%;
+    min-width: 0;
     padding: 0.5rem 1rem;
     border: 1px solid #ccc;
     border-radius: 6px;
 }
 
-
 .search-box button {
+    flex: 1 1 35%;
+    min-width: 80px;
     padding: 0.5rem 1rem;
     background-color: #b300ff;
     color: #ffffff;
@@ -172,4 +175,16 @@ footer {
 
 footer span {
     color: #8600c0;
+}
+
+@media (max-width: 400px) {
+    .search-box {
+        flex-direction: column;
+        gap: 0.5rem;
+    }
+
+    .search-box input,
+    .search-box button {
+        flex: 1 1 100%;
+    }
 }
