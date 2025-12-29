@@ -1,24 +1,42 @@
 # 🌦️ Weather App — Frontend Learning Project
 
-🌐 Live Demo on [Vercel](https://weather-app-silk-tau-66.vercel.app/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 
-A modern Weather Application built using HTML, CSS, and Vanilla JavaScript.
-This project marks the beginning of my frontend development learning journey, focusing on clean UI design, API integration, and real-world functionality.
+
+_🌐 Live Demo: [Weather App on Vercel](https://weather-app-silk-tau-66.vercel.app/)_
+
+A modern Weather Application built using **HTML, CSS, and Vanilla JavaScript**. This project marks the beginning of my frontend development learning journey, focusing on clean UI design, API integration, and real-world functionality.
 
 ## 🚀 What This Project Demonstrates?
 
-#### 🌍 Fetching real-time data from an external API
-#### 🎨 Designing a clean, modern, and responsive UI
-#### 🌗 Implementing dark / light mode with animated gradient backgrounds
-#### ⚡ Writing structured, readable JavaScript without frameworks
-#### 🧠 Applying core frontend concepts in a practical project
+- 🌍 Fetching real-time data from an external API
+- 🎨 Designing a clean, modern, and responsive UI
+- 🌗 Implementing dark / light mode with animated gradient backgrounds
+- ⚡ Writing structured, readable JavaScript without frameworks
+- 🧠 Applying core frontend concepts in a practical project
 
 ## 🛠️ Tech Stack
 
-#### HTML5 — Semantic structure
-#### CSS3 — Gradients, transitions, pseudo-elements
-#### JavaScript (ES6) — DOM manipulation & API handling
-#### OpenWeatherMap API — Live weather data
+- **HTML5** — Semantic structure  
+- **CSS3** — Gradients, transitions, pseudo-elements  
+- **JavaScript (ES6)** — DOM manipulation & API handling  
+- **OpenWeatherMap API** — Live weather data
+
+🖥️ Installation & Usage
+
+## Clone the repository:
+```bash
+git clone https://github.com/hameed-afsar-km/weather-app.git
+```
+### Navigate into the project folder:
+```bash
+cd weather-app
+```
+### Open index.html in your browser
+`Or host using Live Server in VS Code`
 
 ## 🎨 UI Highlights
 
@@ -29,27 +47,22 @@ This project marks the beginning of my frontend development learning journey, fo
 
 ## 📸 Screenshots
 ### Web/Mobile Responsiveness
+<img width="auto" height="250" alt="web" src="https://github.com/user-attachments/assets/d9cb3dde-1b96-48a2-a3cc-5b4ef0afdef9" />
 
-
-## 
-
-### ☀️ Light Mode /🌙 Dark Mode
-<img width="auto" height="220" alt="light mode" src="https://github.com/user-attachments/assets/85d5e493-38df-4cac-80ec-a08ec23b2c70" />
-<img width="auto" height="220" alt="image" src="https://github.com/user-attachments/assets/b01e34bb-ba69-4413-bbb4-33b699feee17" />
-
-### 
-
-
-## 📚 Learning Journey
-#### This repository represents the starting point of my frontend development journey.
-#### This project focuses on core web fundamentals
+<img width="auto" height="250" alt="image" src="https://github.com/user-attachments/assets/b47a0238-04ca-48cb-acb0-145bb422d67d" />
 
 ## 
 
-### 👨‍💻 Author
+### Light Mode / Dark Mode
+<img width="auto" height="205" alt="light mode" src="https://github.com/user-attachments/assets/9281740b-e3e9-4d9e-b983-877daac79332" />
+<img width="auto" height="205" alt="image" src="https://github.com/user-attachments/assets/dee72a0d-4de5-4d04-b173-57f1e59781ba" />
+
+## 
+
+## 👨‍💻 Author
 Hameed Afsar K M
 ## 
 
-#### ⭐ Note
-##### This project is part of a continuous learning process.
-##### Feedback, suggestions, and improvements are always welcome.
+### ⭐ _Note_
+_This project is part of a continuous learning process._<br>
+_Feedback, suggestions, and improvements are always welcome._
